@@ -1,4 +1,4 @@
-struct task_struct {
+struct task_struct { 
 	/*
 	 * offsets of these are hardcoded elsewhere - touch with care
 	 */
